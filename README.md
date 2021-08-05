@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou @rayanaAlmeida
+- 👋 Oi, eu sou @rayanaAlmeida
 - 👀 Dev frontend há 2 anos com foco em ReactJS e CSS
 - :mortar_board: Aprendi Javascript e Python na faculdade de ciência da computação na UFAM em Manaus
 - :computer: A maioria dos projeto que desenvolvi foi em uma empresa júnior chamada COLTECH Consultoria, onde sou gerente do time de computação! 
