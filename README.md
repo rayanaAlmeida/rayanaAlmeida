@@ -6,6 +6,6 @@
 - 🌱 Aprendendo GitKraken e .Net
 - :dart: E estou procurando outro emprego na area de frontend, manda mensagem no pv aí
 - 📫 Telegram: @rayanaAlmeida
-- :Email: Email: rayana.almeida@icomp.ufam.edu.br
+- :email: Email: rayana.almeida@icomp.ufam.edu.br
 
 
